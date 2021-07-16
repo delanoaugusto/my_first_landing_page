@@ -1,3 +1,5 @@
+Minha primeira Landing Page, feita para cumprir o desafio 1 do Hiring Coders!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
